@@ -1,6 +1,6 @@
 ## License
 
-[Text-to-Big](https://github.com/brendanlynn/Text-to-Big/) © 2024 by [Brendan Lynn](https://www.brendanlynn.org/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Text to Big](https://github.com/brendanlynn/Text-to-Big/) © 2024 by [Brendan Lynn](https://www.brendanlynn.org/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Disclaimer of Warranty and Liability
 

@@ -1,4 +1,4 @@
-# Text-to-Big
+# Text to Big
 
 A console application that converts small (normal-sized) text such as
 
